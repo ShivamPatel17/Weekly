@@ -1,4 +1,4 @@
-# Weekly
+# weekly
 
 A new Flutter project.
 
